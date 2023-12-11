@@ -21,4 +21,4 @@ This project is web-based Weather App. Which is user-friendly and allows users t
 - BootStrap
 - AOS Github plugin
 
-Preview/Direct link of the project: 
+Preview/Direct link of the project: https://weatherappchandan-6.netlify.app/
