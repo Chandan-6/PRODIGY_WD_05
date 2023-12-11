@@ -33,3 +33,14 @@
         font-size: 26px;
     }
 }
+
+@media only screen and (max-width: 450px){
+    .remaining_details{
+        margin: 10px 10px 10px;
+    }
+
+    .minimum_temp {
+        width: 135px;
+        height: 76px;
+    }
+}
